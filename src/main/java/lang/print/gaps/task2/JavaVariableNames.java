@@ -7,8 +7,8 @@ public class JavaVariableNames {
         int hundred = 100;
         int back = 1000;
         int _underscore = 10000;
-        int  sharp = 100000;
-        int  star = 1000000;
+        int sharp = 100000;
+        int star = 1000000;
         int BADEXAMPLEOFVARNAME = 1000000;
     }
 }
